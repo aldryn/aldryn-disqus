@@ -8,7 +8,7 @@ from django.utils.translation import ugettext_lazy as _
 
 class DisqusPlugin(CMSPluginBase):
 
-    render_template = 'disqus.html'
+    render_template = 'aldryn_disqus/disqus.html'
     admin_preview = False
     name = _('Disqus Plugin')
     model = models.DisqusPlugin
