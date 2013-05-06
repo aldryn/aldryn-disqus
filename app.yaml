@@ -1,0 +1,13 @@
+name: Disqus
+package-name: aldryn-disqus
+url: https://github.com/aldryn/aldryn-disqus
+author:
+  name: Divio AG
+  url: https://www.divio.ch
+installed-apps:
+  - aldryn_disqus
+version: 0.0.6
+description: Allows embeding Disqus threads into the site. 
+license:
+  name: BSD
+  text: !literal-include LICENSE.txt
