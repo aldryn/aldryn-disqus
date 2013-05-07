@@ -6,7 +6,7 @@ author:
   url: https://www.divio.ch
 installed-apps:
   - aldryn_disqus
-version: 0.0.7
+version: 0.0.10
 description: Allows embeding Disqus threads into the site. 
 license:
   name: BSD
