@@ -1,0 +1,17 @@
+{
+	"name": "Aldryn Disqus",
+	"description": "Constant Contact Integration App",
+	"url": "https://github.com/aldryn/aldryn-disqus",
+	"package-name": "aldryn-disqus",
+	"installed-apps": [
+		"aldryn_disqus"
+	],
+	"author": {
+		"name": "Divio AG",
+		"url": "https://www.divio.ch"
+	},
+	"license": {
+		"name": "BSD",
+		"text": "!literal-include LICENSE.txt"
+	}
+}
