@@ -39,6 +39,5 @@ is the identifier you configured for your project at Disqus.
 Usage
 -----
 
-After configuring your Disqus account at https://disqus.com/
-
-Simply add the Disqus plugin on the desired page(s) in your project.
+After configuring your Disqus account at https://disqus.com/, simply add the
+``Aldryn Disqus`` plugin on the desired page(s) in your project.
