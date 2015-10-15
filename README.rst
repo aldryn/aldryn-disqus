@@ -24,6 +24,9 @@ Aldryn Installation
 Choose a site you want to install the add-on to from the dashboard. Then go to
 ``Apps -> Install app`` and click ``Install`` next to ``Aldryn Disqus`` app.
 
+Ensure you correctly set the ``DISQUS_SHORTNAME`` setting in the control panel
+to the identifier you configured for your project at Disqus.
+
 Redeploy the site.
 
 
